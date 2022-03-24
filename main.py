@@ -5,3 +5,6 @@ print("yana yangilik")
 
 print("Hello World")
 print("nimadir")
+
+
+print("Birnarsa")
