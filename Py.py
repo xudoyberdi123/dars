@@ -1,0 +1,3 @@
+print("Salom Dunyo")
+
+#Qobil
